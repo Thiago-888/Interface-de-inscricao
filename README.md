@@ -1,1 +1,1 @@
-Este é um pequeno projeto, sendo uma inteface de inscrição, onde o usuário insere seu dados e é inscrito para algo. Está bla interface, foi desenvolvida com HTML, CSS, PHP SQL para o banco de dados
+Este projeto é uma inteface de inscrição, onde o usuário insere seus dados e é inscrito para algo. Está bela interface, foi desenvolvida com HTML, CSS, PHP e SQL para o banco de dados.
